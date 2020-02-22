@@ -1,5 +1,14 @@
+# zsh-users plugins
 zsh-users/zsh-completions
 zsh-users/zsh-autosuggestions
+
+# oh-my-zsh plugins
+robbyrussell/oh-my-zsh
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/kubectl
+
+# Powerlevel10k
+romkatv/powerlevel10k
 
 # these should be at last!
 zdharma/fast-syntax-highlighting
